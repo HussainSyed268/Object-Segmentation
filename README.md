@@ -1,4 +1,4 @@
-![coins](https://github.com/HussainSyed268/Object-Segmentation/assets/100157373/ae7f9750-59c0-4ab3-b3fd-3d04c93ab0c1)# Object-Segmentation
+# Object-Segmentation
 This python project works on object segmentation in digital images using opencv and numpy.
 
 # Target Image
